@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="PIBColombia" frequency="4" startobs="2005:1" endobs="2020:1" type="time-series">
+<description>Datos importados desde el fichero Stata 'PIBColombia.dta', 2020-08-10 16:45
+</description>
+<variables count="1">
+<variable name="PIB"
+/>
+</variables>
+<observations count="61" labels="false">
+<obs>119427 </obs>
+<obs>125234 </obs>
+<obs>128422 </obs>
+<obs>141769 </obs>
+<obs>127143 </obs>
+<obs>131927 </obs>
+<obs>138334 </obs>
+<obs>152031 </obs>
+<obs>135632 </obs>
+<obs>140880 </obs>
+<obs>147792 </obs>
+<obs>162153 </obs>
+<obs>142553 </obs>
+<obs>147591 </obs>
+<obs>152652 </obs>
+<obs>162917 </obs>
+<obs>142910 </obs>
+<obs>148391 </obs>
+<obs>153259 </obs>
+<obs>168055 </obs>
+<obs>147756 </obs>
+<obs>155392 </obs>
+<obs>159783 </obs>
+<obs>177220 </obs>
+<obs>157775 </obs>
+<obs>165563 </obs>
+<obs>172492 </obs>
+<obs>188798 </obs>
+<obs>166849 </obs>
+<obs>173617 </obs>
+<obs>176764 </obs>
+<obs>194184 </obs>
+<obs>171260 </obs>
+<obs>182927 </obs>
+<obs>187159 </obs>
+<obs>206594 </obs>
+<obs>182394 </obs>
+<obs>189600 </obs>
+<obs>195308 </obs>
+<obs>214287 </obs>
+<obs>187877 </obs>
+<obs>195862 </obs>
+<obs>202621 </obs>
+<obs>218331 </obs>
+<obs>191900 </obs>
+<obs>199972 </obs>
+<obs>205508 </obs>
+<obs>224108 </obs>
+<obs>193880 </obs>
+<obs>202424 </obs>
+<obs>208932 </obs>
+<obs>227419 </obs>
+<obs>197375 </obs>
+<obs>208074 </obs>
+<obs>214640 </obs>
+<obs>233511 </obs>
+<obs>203015 </obs>
+<obs>214654 </obs>
+<obs>222109 </obs>
+<obs>241652 </obs>
+<obs>205190 </obs>
+</observations>
+</gretldata>
