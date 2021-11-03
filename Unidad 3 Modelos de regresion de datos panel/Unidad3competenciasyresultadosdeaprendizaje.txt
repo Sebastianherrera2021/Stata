@@ -1,0 +1,27 @@
+Competencias: 
+
+-Ajustar modelos de datos panel a fin de analizar un fenómeno económico y evaluar el efecto de planes y programas. 
+-Desarrollar actitud positiva para el trabajo en equipo, respetando las diferencias individuales
+-Desarrollar la motivación permanente por la investigación sin detrimento de la biodiversidad
+-Desarrollar habilidades para redactar e interpretar textos de situaciones problémicas, o coyunturales de acuerdo con parámetros establecidos.
+ 
+Resultados de Aprendizaje:
+
+-Comprender la diferencia entre modelos de efectos fijos y modelos de efectos aleatorios y el papel que en ellos juega la covarianza entre errores y covariables.
+-Ajustar y evaluar un modelo de datos panel, ajustado a la estructura de covarianza entre covariables y términos de error
+-Identificar y corregir problemas de heterocedasticidad y/o autocorrelación en modelos de datos panel.
+-Interpretar y probar significancia de los coeficientes de los modelos de datos panel.  
+-Utilizar el modelo ajustado para medir impactos y evaluar planes y programas. 
+
+Lecturas de la unidad
+Volver a: Unidad 3: Mode...
+Bibliografía recomendada: ordenados según importancia. Basta uno de los tres.
+
+Capítulos 13 y 14 de Wooldridge, J (2010). Introducción a la econometría. Un enfoque moderno. 4ta edición. Cengage. 
+Capítulo 16 de Gujarati, D. y Porter, D. (2010). Econometría. 5ta edición. McGraw Hill Interamericana.
+Secciòn 9.4 de Pindyck, R. Y Rubinfeld, D. (2001). Ecoometría, modelos y pronósticos. 4ta edición. McGraw Hill.
+Artículos:  Se incluyen algunos ejemplos de aplicación de modelos de regresión de datos panel.
+Alonso, et al. (2004). Decisiones financieras en la empresa chilena: una mirada a través de las oportunidades de crecimiento. Revista Abante, 7(1): 3-34.
+Carey, K. (1997). Panel Data Design for Estimation of Hospital Cost Functions. The Review of Economics and Statistics, 79 (3): 443-453.
+Clark, et al (2010). The Choice Between Fixed and Random Effects Models: Some Considerations for Educational Research. IZA Discussion Paper No. 5287.
+Sherron, T. and Allen, J. (2000). A fixed effects panel data model: Mathematics Achievemente in the US. Multiple Linear Regression Viewpoints, 26 (1):1-10.

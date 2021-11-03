@@ -1,0 +1,23 @@
+Competencias:
+
+-Aplicar la metodología de Box-Jenkins para ajustar modelos de series de tiempo no estacionales ARIMA.
+-Utilizar el modelo ajustado para hacer proyecciones de variables en el tiempo.
+-Desarrollar actitud positiva para el trabajo en equipo, respetando las diferencias individuales
+-Desarrollar la motivación permanente por la investigación sin detrimento de la biodiversidad
+-Desarrollar habilidades para redactar e interpretar textos de situaciones problémicas, o coyunturales de acuerdo con parámetros establecidos.
+
+Respuestas de Aprendizaje:
+
+-Ajustar y evaluar un modelo de regresión lineal, utilizando variables explicativas cualitativas y/o cuantitativas.
+-Interpretar y probar significancia de los coeficientes.
+-Llevar a cabo pruebas de hipótesis para restricciones lineales.
+-Utilizar el modelo ajustado para proyectar variables a futuro, medir impactos, o para evaluar planes, programas y políticas.
+
+Lecturas de la unidad
+Volver a: Unidad 4: Model...
+Bibliografía recomendada: 
+
+Capítulos 21 y 22 de Gujarati, D. y Porter, D. (2010). Econometría. 5ta edición. McGraw Hill Interamericana.
+
+Capítulos 11, 18.2 18.3,  de Wooldridge, J (2010). Introducción a la econometría. Un enfoque moderno. 4ta edición. Cengage. 
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="Grunfeld" frequency="20" startobs="1:01" endobs="4:20" type="stacked-time-series">
+<description>
+Table 16.1
+
+Investment data for four companies, 1935-1954 (panel data)
+
+Y = gross investment
+X2 = value of firm 
+X3 = capital (stock of plant and equipment)
+
+Source: H. D. Vinod and Aman Ullah, Recent Advances in Regression
+Methods, Marcel Dekker, New York, 1981, pp. 259-261.
+</description>
+<variables count="5">
+<variable name="Y"
+ label="Gross investment"
+/>
+<variable name="X2"
+ label="Value of firm"
+/>
+<variable name="X3"
+ label="Capital (stock of plant and equipment)"
+/>
+<variable name="time"
+ label="variable de tendencia temporal"
+/>
+<variable name="empresa"
+/>
+</variables>
+<observations count="80" labels="true">
+<obs label="GE1935">33.1 1170.6 97.8 1935 1 </obs>
+<obs label="GE1936">45 2015.8 104.4 1936 1 </obs>
+<obs label="GE1937">77.2 2803.3 118 1937 1 </obs>
+<obs label="GE1938">44.6 2039.7 156.2 1938 1 </obs>
+<obs label="GE1939">48.1 2256.2 172.6 1939 1 </obs>
+<obs label="GE1940">74.4 2132.2 186.6 1940 1 </obs>
+<obs label="GE1941">113 1834.1 220.9 1941 1 </obs>
+<obs label="GE1942">91.9 1588 287.8 1942 1 </obs>
+<obs label="GE1943">61.3 1749.4 319.9 1943 1 </obs>
+<obs label="GE1944">56.8 1687.2 321.3 1944 1 </obs>
+<obs label="GE1945">93.6 2007.7 319.6 1945 1 </obs>
+<obs label="GE1946">159.9 2208.3 346 1946 1 </obs>
+<obs label="GE1947">147.2 1656.7 456.4 1947 1 </obs>
+<obs label="GE1948">146.3 1604.4 543.4 1948 1 </obs>
+<obs label="GE1949">98.3 1431.8 618.3 1949 1 </obs>
+<obs label="GE1950">93.5 1610.5 647.4 1950 1 </obs>
+<obs label="GE1951">135.2 1819.4 671.3 1951 1 </obs>
+<obs label="GE1952">157.3 2079.7 726.1 1952 1 </obs>
+<obs label="GE1953">179.5 2371.6 800.3 1953 1 </obs>
+<obs label="GE1954">189.6 2759.9 888.9 1954 1 </obs>
+<obs label="GM1935">317.6 3078.5 2.8 1935 2 </obs>
+<obs label="GM1936">391.8 4661.7 52.6 1936 2 </obs>
+<obs label="GM1937">410.6 5387.1 156.9 1937 2 </obs>
+<obs label="GM1938">257.7 2792.2 209.2 1938 2 </obs>
+<obs label="GM1939">330.8 4313.2 203.4 1939 2 </obs>
+<obs label="GM1940">461.2 4643.9 207.2 1940 2 </obs>
+<obs label="GM1941">512 4551.2 255.2 1941 2 </obs>
+<obs label="GM1942">448 3244.1 303.7 1942 2 </obs>
+<obs label="GM1943">499.6 4053.7 264.1 1943 2 </obs>
+<obs label="GM1944">547.5 4379.3 201.6 1944 2 </obs>
+<obs label="GM1945">561.2 4840.9 265 1945 2 </obs>
+<obs label="GM1946">688.1 4900 402.2 1946 2 </obs>
+<obs label="GM1947">568.9 3526.5 761.5 1947 2 </obs>
+<obs label="GM1948">529.2 3245.7 922.4 1948 2 </obs>
+<obs label="GM1949">555.1 3700.2 1020.1 1949 2 </obs>
+<obs label="GM1950">642.9 3755.6 1099 1950 2 </obs>
+<obs label="GM1951">755.9 4833 1207.7 1951 2 </obs>
+<obs label="GM1952">891.2 4924.9 1430.5 1952 2 </obs>
+<obs label="GM1953">1304.4 6241.7 1777.3 1953 2 </obs>
+<obs label="GM1954">1486.7 5593.6 2226.3 1954 2 </obs>
+<obs label="US1935">209.9 1362.4 53.8 1935 3 </obs>
+<obs label="US1936">355.3 1807.1 50.5 1936 3 </obs>
+<obs label="US1937">469.9 2673.3 118.1 1937 3 </obs>
+<obs label="US1938">262.3 1801.9 260.2 1938 3 </obs>
+<obs label="US1939">230.4 1957.3 312.7 1939 3 </obs>
+<obs label="US1940">361.6 2202.9 254.2 1940 3 </obs>
+<obs label="US1941">472.8 2380.5 261.4 1941 3 </obs>
+<obs label="US1942">445.6 2168.6 298.7 1942 3 </obs>
+<obs label="US1943">361.6 1985.1 301.8 1943 3 </obs>
+<obs label="US1944">288.2 1813.9 279.1 1944 3 </obs>
+<obs label="US1945">258.7 1850.2 213.8 1945 3 </obs>
+<obs label="US1946">420.3 2067.7 232.6 1946 3 </obs>
+<obs label="US1947">420.5 1796.7 264.8 1947 3 </obs>
+<obs label="US1948">494.5 1625.8 306.9 1948 3 </obs>
+<obs label="US1949">405.1 1667 351.1 1949 3 </obs>
+<obs label="US1950">418.8 1677.4 357.8 1950 3 </obs>
+<obs label="US1951">588.2 2289.5 341.1 1951 3 </obs>
+<obs label="US1952">645.2 2159.4 444.2 1952 3 </obs>
+<obs label="US1953">641 2031.3 623.6 1953 3 </obs>
+<obs label="US1954">459.3 2115.5 669.7 1954 3 </obs>
+<obs label="WEST1935">12.93 191.5 1.8 1935 4 </obs>
+<obs label="WEST1936">25.9 516 0.8 1936 4 </obs>
+<obs label="WEST1937">35.05 729 7.4 1937 4 </obs>
+<obs label="WEST1938">22.89 560.4 18.1 1938 4 </obs>
+<obs label="WEST1939">18.84 519.9 23.5 1939 4 </obs>
+<obs label="WEST1940">28.57 628.5 26.5 1940 4 </obs>
+<obs label="WEST1941">48.51 537.1 36.2 1941 4 </obs>
+<obs label="WEST1942">43.34 561.2 60.8 1942 4 </obs>
+<obs label="WEST1943">37.02 617.2 84.4 1943 4 </obs>
+<obs label="WEST1944">37.81 626.7 91.2 1944 4 </obs>
+<obs label="WEST1945">39.27 737.2 92.4 1945 4 </obs>
+<obs label="WEST1946">53.46 760.5 86 1946 4 </obs>
+<obs label="WEST1947">55.56 581.4 111.1 1947 4 </obs>
+<obs label="WEST1948">49.56 662.3 130.6 1948 4 </obs>
+<obs label="WEST1949">32.04 583.8 141.8 1949 4 </obs>
+<obs label="WEST1950">32.24 635.2 136.7 1950 4 </obs>
+<obs label="WEST1951">54.38 732.8 129.7 1951 4 </obs>
+<obs label="WEST1952">71.78 864.1 145.5 1952 4 </obs>
+<obs label="WEST1953">90.08 1193.5 174.8 1953 4 </obs>
+<obs label="WEST1954">68.6 1188.9 213.5 1954 4 </obs>
+</observations>
+</gretldata>

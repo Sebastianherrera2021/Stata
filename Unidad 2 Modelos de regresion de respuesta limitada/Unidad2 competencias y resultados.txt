@@ -1,0 +1,25 @@
+Competencias: 
+
+Ajustar modelos de regresión para explicar el comportamiento de variables de respuesta limitada
+Desarrollar actitud positiva para el trabajo en equipo, respetando las diferencias individuales.
+Desarrollar la motivación permanente por la investigación sin detrimento de la biodiversidad.
+Desarrollar habilidades para redactar e interpretar textos de situaciones problémicas, o coyunturales de acuerdo con parámetros establecidos
+Respuestas de Aprendizaje:
+
+Identificar la metodología que mejor permita modelar la probabilidad de ocurrencia de un evento.
+Ajustar y evaluar un modelo de respuesta limitada, según corresponda a la estructura de la variable dependiente.
+Interpretar y probar significancia de los coeficientes de los modelos de respuesta limitada, según sea la estructura de la variable dependiente y el tipo de formal funcional asumida.
+Utilizar el modelo ajustado para medir impactos y para evaluar planes, programas y políticas
+
+Lecturas de la unidad
+Volver a: Unidad 2: Mode...
+Bibliografía recomendada: ordenados según importancia. Basta uno de los tres.
+
+Capítulo 17 de Wooldridge, J (2010). Introducción a la econometría. Un enfoque moderno. 4ta edición. Cengage. 
+Capítulo 15 de Gujarati, D. y Porter, D. (2010). Econometría. 5ta edición. McGraw Hill Interamericana.
+Capítulo 11 de Pindyck, R. Y Rubinfeld, D. (2001). Ecoometría, modelos y pronósticos. 4ta edición. McGraw Hill.
+Artículos:  Se incluyen algunos ejemplos de aplicación de modelos de regresión de respuesta limitada. 
+Harbor, et al. (2008). Assessing Input Brand Loyalty among U.S. Agricultural Producers. International Food and Agribusiness Management Review, 11 (1): 17-32.
+Odah, et al. (2017). Tobit Regression Analysis Applied on Iraqi Bank Loans. American Journal of Mathematics and Statistics 7(4): 179-182.
+Orlandoni, et al (s.f.). Calidad del aire y enfermedades respiratorias bajo diversos esquemas de circulación vial en Bucaramanga (Santander, Colombia). En arbitraje.
+Pabón, G. y Ramoni, J. (2007). Diferenciales salariales según sexo en Venezuela (1997-1998): Un enfoque de estimación en dos etapas. Economía, 32(23): 45-61.

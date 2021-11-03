@@ -12,6 +12,7 @@ Resultados de Aprendizaje:
 -Interpretar y probar significancia de los coeficientes.
 -Llevar a cabo pruebas de hipótesis para restricciones lineales.
 -Utilizar el modelo ajustado para proyectar variables a futuro, medir impactos, o para evaluar planes, programas y políticas.
+
 Bibliografía recomendada para la unidad:
 
 1. Gujarati, D. y Porter D. (2010). Econometría. McGraw Hill Interamericana. México.
