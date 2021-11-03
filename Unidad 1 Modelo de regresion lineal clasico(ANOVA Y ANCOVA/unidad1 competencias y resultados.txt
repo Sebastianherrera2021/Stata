@@ -1,0 +1,21 @@
+Competencias: 
+
+-Suministrar las herramientas teóricas que faciliten el planteamiento y solución de modelos de regresión en los cuales las  variables independiente puedan ser cualitativas.
+-Utilizar un modelo clásico de regresión para analizar fenómenos económicos, proyectar variables a futuro, medir impactos, o para evaluar planes, programas y políticas
+-Desarrollar actitud positiva para el trabajo en equipo, respetando las diferencias individuales
+-Desarrollar la motivación permanente por la investigación sin detrimento de la biodiversidad
+-Desarrollar habilidades para redactar e interpretar textos de situaciones problémicas, o coyunturales de acuerdo con parámetros establecidos.
+
+Resultados de Aprendizaje:
+
+-Ajustar y evaluar un modelo de regresión lineal, utilizando variables explicativas cualitativas y/o cuantitativas.
+-Interpretar y probar significancia de los coeficientes.
+-Llevar a cabo pruebas de hipótesis para restricciones lineales.
+-Utilizar el modelo ajustado para proyectar variables a futuro, medir impactos, o para evaluar planes, programas y políticas.
+Bibliografía recomendada para la unidad:
+
+1. Gujarati, D. y Porter D. (2010). Econometría. McGraw Hill Interamericana. México.
+
+2. Wooldridge, J.M. (2010). Intrducción a la Econometría. Un enfoque moderno. Cengage Learning, México.  
+
+3. Esquivel, G. y Larrain F. (2001). ¿Cómo atraer Inversión Extranjera Directa? Proyecto Andino de la Universidad de Harvard y la Corporación Andina de Fomento (CAF).
